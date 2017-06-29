@@ -1,0 +1,12 @@
+#英文
+http://highscalability.com/blog/2011/7/6/11-common-web-use-cases-solved-in-redis.html
+http://objectrocket.com/blog/how-to/top-5-redis-use-cases
+http://www.paperplanes.de/2010/2/16/a_collection_of_redis_use_cases.html
+#中文
+http://blog.nosqlfan.com/html/2235.html
+http://blog.jobbole.com/88383/
+http://os.51cto.com/art/201107/278292.htm
+https://my.oschina.net/lnmpstudy/blog/266541
+http://www.csdn.net/article/2013-10-07/2817107-three-giant-share-redis-experience
+#误区
+https://timyang.net/data/redis-misunderstanding/
